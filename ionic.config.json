@@ -1,0 +1,7 @@
+{
+  "name": "HotelPacificReef-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
